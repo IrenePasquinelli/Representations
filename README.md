@@ -11,3 +11,6 @@ Many of the proofs in the paper are computer assisted.
 This repository contains the code for these proofs. 
 
 ## Implementation
+
+The code is a Jupyter Notebook in sage. 
+To open it... 
