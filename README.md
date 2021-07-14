@@ -14,3 +14,7 @@ This repository contains the code for these proofs.
 
 The code is a Jupyter Notebook in sage. 
 To open it... 
+
+## Acknowledgments 
+
+The second author is supported by the EPSRC grant EP/T015926/1. 
