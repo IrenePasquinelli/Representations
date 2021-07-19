@@ -1,6 +1,6 @@
 # Representations of Deligne-Mostow lattices into PGL(3,C)
 **Authors:** 
-* [E. Falbel](https://webusers.imj-prg.fr/~elisha.falbel/), Sorbonne Université
+* [E. Falbel](https://webusers.imj-prg.fr/~elisha.falbel/), Sorbonne Université, IMJ-PRG, EPI OURAGAN INRIA
 * [I. Pasquinelli](https://people.maths.bris.ac.uk/~ip13935/), University of Bristol
 * [A. Ucan-Puc](https://www.researchgate.net/profile/Alejandro-Ucan-Puc), Sorbonne Université
 
