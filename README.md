@@ -6,11 +6,9 @@
 
 ## Abstract
 
-We classify representations of a class of Deligne-Mostow lattices into $\pgl(3,\C)$.  In particular, we show local rigidity for a large class of representations (of 3-fold symmetric Deligne-Mostow lattices of type 1) including ones with generators in the same conjugacy class as the ones of Deligne-Mostow lattices.
-
 In the paper "Representations of Deligne-Mostow lattices into PGL(3,C)", which can be found on the arxiv, 
 we look at a large class of Deligne-Mostow lattices in PU(2,1), the Deligne-Mostow lattices with 3-fold symmetry and of first type and we classify their representations into PGL(3,C).
-In particular, we show local rigidity of the representations which preserve the type of the generators.
+In particular, we show local rigidity for the representations where the generators we chose are in the same conjugacy class as the generators of Deligne-Mostow lattices.
 
 Many of the proofs in the paper are computer assisted. 
 This repository contains the code for these proofs. 
