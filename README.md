@@ -20,11 +20,16 @@ To open it, one should first [install sage](https://doc.sagemath.org/html/en/ins
 and then [open Jupyter notebook](https://doc.sagemath.org/html/en/installation/launching.html). 
 The [sage documentation](https://doc.sagemath.org/html/en/index.html) contains all the instruction to run the code. 
 
+There is a Maple file which can be executed.
+
 ## Organisation of the files
 
 The Deligne-Mostow lattices are parametrised using 2 parameters (p,k) as explained in Section 4 of the paper. 
 Each file contains the calculations for one of the lattices. 
 The name of the file for the lattice (p,k) is RepresentationsDM(p,k). 
+
+The file named DMregularelliptics2.mw completes the calssification of all representations of Deligne-Mostow lattices of type 1 with 3-fold symmetry.
+It describes representations with regular elliptic generators.
 
 ## Acknowledgments 
 
