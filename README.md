@@ -37,4 +37,4 @@ It describes representations with regular elliptic generators.
 
 The second author was supported by the Fondation Sciences Mathematiques de Paris and by the EPSRC grant EP/T015926/1.
 
-The third author was supported by CONACYT. 
+The third author was supported by Consejo Nacional de Ciencia y Tecnología (CONACyT) projects 740649 and 769037. 
