@@ -6,9 +6,9 @@
 
 ## Abstract
 
-In the paper "Representations of Deligne-Mostow lattices into PGL(3,C)", which can be found on the arxiv, 
-we look at a large class of Deligne-Mostow lattices in PU(2,1), the Deligne-Mostow lattices with 3-fold symmetry and of type one and we classify their representations into PGL(3,C).
-In particular, we show local rigidity for the representations where the generators we chose are in the same conjugacy class as the generators of Deligne-Mostow lattices.
+In the papers "Representations of Deligne-Mostow lattices into PGL(3,C)", part I and part II which can be found on the arxiv, 
+we look at a large class of Deligne-Mostow lattices in PU(2,1), the Deligne-Mostow lattices with 3-fold symmetry (of type one in part I of the paper, of all other types in part II of the paper) and we classify their representations into PGL(3,C).
+In particular, we show local rigidity for the representations where the generators we chose are of the same type as the generators of Deligne-Mostow lattices.
 
 Many of the proofs in the paper are computer assisted. 
 This repository contains the code for these proofs. 
@@ -19,8 +19,9 @@ The code is a Jupyter Notebook in sage.
 To open it, one should first [install sage](https://doc.sagemath.org/html/en/installation/index.html) 
 and then [open Jupyter notebook](https://doc.sagemath.org/html/en/installation/launching.html). 
 The [sage documentation](https://doc.sagemath.org/html/en/index.html) contains all the instruction to run the code. 
+We recommend to use Sage version 9.2.
 
-There is a Maple file which can be executed.
+There is also a Maple file which can be executed.
 
 ## Organisation of the files
 
